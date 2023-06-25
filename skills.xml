@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Padawan>
+	<Skills>
+		<terminal>Yes</terminal>
+		<git>Yes</git>
+		<basicTheory>Yes</basicTheory>
+		<Client-ServerAcrhitecture>Yes</Client-serverAcrhitecture>
+		<Postman>Yes</Postman>
+		<Charles>Yes</Charles>
+		<Devtools>Yes</Devtools>
+		<MobileTesting>Yes</MobileTesting>
+		<ADB>Yes</ADB>
+		<Jmeter>Yes</Jmeter>
+		<SQL>Yes</SQL>
+		<SDLS>Yes</SDLS>
+		<TestDesing>Yes</TestDesing>
+		<Python>Yes</Python>
+	</Skills>
+</Padawan>
+
+
