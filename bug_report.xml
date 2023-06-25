@@ -1,1 +1,13 @@
+<?xml version="1.0"?>
+<BugReport>
+  <Attributes>
+    <id>1</id>
+    <title>The page layout is displayed incorrectly in the Trading Instruments widget when opening the search and reloading the page</title>
+    <steps>1.Navigete to capital.com 2.Choose CYSEC license 3.Select language: DE 4.Scroll the page to the Trading Instruments Widget section 5.Tap in the search field ,enter something and close it 6.Reload page</steps>
+    <ExpectedResult>The site page is displayed correctly after reloading</ExpectedResult>
+    <ActualResult>Page layout is crooked after reload</ActualResult>
+    <Environment>iPhone 12 pro max,iOS 16.5,Google Chrome</Environment>
+    <Attachemnt>https://drive.google.com/file/d/13dTr5HCAEXegOCmhehAXf18qkjXu3MH2/view</Attachemt>
+  </Attributes>
+</BugReport>
 
